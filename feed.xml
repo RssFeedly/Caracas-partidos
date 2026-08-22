@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/">
+ <ns0:link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCQc3SSO8WacZt3L0IQe08Pg" />
+ <ns0:id>yt:channel:Qc3SSO8WacZt3L0IQe08Pg</ns0:id>
+ <ns1:channelId>Qc3SSO8WacZt3L0IQe08Pg</ns1:channelId>
+ <ns0:title>Liga FUTVE</ns0:title>
+ <ns0:link rel="alternate" href="https://www.youtube.com/channel/UCQc3SSO8WacZt3L0IQe08Pg" />
+ <ns0:author>
+  <ns0:name>Liga FUTVE</ns0:name>
+  <ns0:uri>https://www.youtube.com/channel/UCQc3SSO8WacZt3L0IQe08Pg</ns0:uri>
+ </ns0:author>
+ <ns0:published>2020-02-11T14:03:25+00:00</ns0:published>
+ <ns0:entry>
+  <ns0:id>yt:video:BExxltv6TQM</ns0:id>
+  <ns1:videoId>BExxltv6TQM</ns1:videoId>
+  <ns1:channelId>UCQc3SSO8WacZt3L0IQe08Pg</ns1:channelId>
+  <ns0:title>RESUMEN EXTENDIDO | Caracas - Carabobo | Liga FUTVE Triunfobet</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=BExxltv6TQM" />
+  <ns0:author>
+   <ns0:name>Liga FUTVE</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCQc3SSO8WacZt3L0IQe08Pg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-08-22T02:41:22+00:00</ns0:published>
+  <ns0:updated>2026-08-22T08:18:51+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>RESUMEN EXTENDIDO | Caracas - Carabobo | Liga FUTVE Triunfobet</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/BExxltv6TQM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/BExxltv6TQM/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Presentado por Canguro Venezuela - Tecnología al alcance de tu mano
+
+Jornada 5 | Torneo Clausura 2026
+
+Suscríbete al canal oficial de la LigaFUTVE para que tengas acceso al mejor contenido www.youtube.com/@ligafutve
+
+¡Síguenos en nuestras redes!
+https://x.com/LigaFUTVE
+https://www.instagram.com/ligafutve/
+https://www.tiktok.com/@ligafutveoficial
+https://www.ligafutve.org</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="72" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2818" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry>
+ <ns0:entry>
+  <ns0:id>yt:video:CuFhP5NHLOc</ns0:id>
+  <ns1:videoId>CuFhP5NHLOc</ns1:videoId>
+  <ns1:channelId>UCQc3SSO8WacZt3L0IQe08Pg</ns1:channelId>
+  <ns0:title>RESUMEN | Repartieron puntos en el Olímpico de la UCV | Caracas - Carabobo | Liga FUTVE Triunfobet</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=CuFhP5NHLOc" />
+  <ns0:author>
+   <ns0:name>Liga FUTVE</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCQc3SSO8WacZt3L0IQe08Pg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-08-22T02:35:57+00:00</ns0:published>
+  <ns0:updated>2026-08-22T08:17:08+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>RESUMEN | Repartieron puntos en el Olímpico de la UCV | Caracas - Carabobo | Liga FUTVE Triunfobet</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/CuFhP5NHLOc?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/CuFhP5NHLOc/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Presentado por Canguro Venezuela - Tecnología al alcance de tu mano
+
+Jornada 5 | Torneo Clausura 2026
+
+Suscríbete al canal oficial de la LigaFUTVE para que tengas acceso al mejor contenido www.youtube.com/@ligafutve
+
+¡Síguenos en nuestras redes!
+https://x.com/LigaFUTVE
+https://www.instagram.com/ligafutve/
+https://www.tiktok.com/@ligafutveoficial
+https://www.ligafutve.org</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="16" average="5.00" min="1" max="5" />
+    <ns2:statistics views="395" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry>
+ </ns0:feed>
